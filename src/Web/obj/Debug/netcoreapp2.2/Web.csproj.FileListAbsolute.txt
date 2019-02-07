@@ -28,3 +28,4 @@ C:\Users\S533487\Documents\44663\Mynew\src\Web\obj\Debug\netcoreapp2.2\Web.Views
 C:\Users\S533487\Documents\44663\Mynew\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\Users\S533487\Documents\44663\Mynew\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533487\Documents\44663\Mynew\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+C:\Users\S533487\Documents\44663\Mynew\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Welcome.g.cshtml.cs

@@ -12,7 +12,7 @@ namespace UnitTests
             var a = 10;
             var b = 2;
             var actual = Divide(a, b);
-            Assert.Equal(expected, atual);
+            Assert.Equal(expected, actual);
         }
 
         [Theory]
@@ -23,9 +23,11 @@ namespace UnitTests
             {
             Assert.Equal(exp, Divide(n1, n2));
 }
-        double Divide(int x, int y)
+        Double Divide(int x, int y)
             {
-            return x/y;
+            Double result = (Double)x / y;
+            Console.WriteLine(result);
+            return result;
 
 }
     }

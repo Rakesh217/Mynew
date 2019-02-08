@@ -9,7 +9,6 @@ C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\bin\Debug\netcoreap
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.dll
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.pdb
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\bin\Debug\netcoreapp2.2\Web.dll
-C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\bin\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.csprojAssemblyReference.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.csproj.CoreCompileInputs.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreap
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.csproj.CopyComplete
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.dll
 C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.pdb
+C:\Users\S533487\Documents\44663\Mynew\tests\FunctionalTests\bin\Debug\netcoreapp2.2\Web.pdb

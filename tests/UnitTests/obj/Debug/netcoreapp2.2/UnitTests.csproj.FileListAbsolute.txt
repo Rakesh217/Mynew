@@ -9,7 +9,6 @@ C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\bin\Debug\netcoreapp2.2\U
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\bin\Debug\netcoreapp2.2\Web.dll
-C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\bin\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\U
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CopyComplete
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
 C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
+C:\Users\S533487\Documents\44663\Mynew\tests\UnitTests\bin\Debug\netcoreapp2.2\Web.pdb

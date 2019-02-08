@@ -9,11 +9,11 @@ C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\bin\Debug\netcorea
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.dll
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.pdb
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\bin\Debug\netcoreapp2.2\Web.dll
-C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\bin\Debug\netcoreapp2.2\Web.pdb
-C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csprojAssemblyReference.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csproj.CoreCompileInputs.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfoInputs.cache
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfo.cs
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csproj.CopyComplete
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.dll
 C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.pdb
+C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\bin\Debug\netcoreapp2.2\Web.pdb
+C:\Users\S533487\Documents\44663\Mynew\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csprojAssemblyReference.cache
